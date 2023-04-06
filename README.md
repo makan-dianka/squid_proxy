@@ -10,7 +10,7 @@ sudo apt upgrade -y
 sudo apt install squid
 ```
 
-## Edit conf file
+## edit conf file
 
 ```
 vim /etc/squid/squid.conf
